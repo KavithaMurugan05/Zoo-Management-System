@@ -1,7 +1,7 @@
 package ZooManagement;
 	// Single-file Java program for Zoo Management System
 
-	interface CanFly {
+	interface CanItFly {
 	    void fly();
 	}
 
